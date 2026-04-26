@@ -13,12 +13,9 @@ ORG_LOGO="https://neonx-network.github.io/logo.png"
 ORG_DESCRIPTION="NEONX aims to become a foundation for future digital innovation."
 ORG_OFFICIAL_EMAIL="support@neonx.com"
 
-# =========================
-# ASSETS
-# =========================
 
 [[CURRENCIES]]
-code="NEX"
+code="NEOX"
 issuer="GDTMEO5J5HSK35KHD7CJBUB576EFVSFXMXHACV7PORO36Z7AIHHKCJH2"
 status="live"
 display_decimals=7
